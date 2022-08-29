@@ -86,7 +86,7 @@ footer{
     padding: 2em;
 }
 
-@media(max-width: 375px) {
+@media(max-width: 600px) {
     main{
         display: block;
         text-align: center;
